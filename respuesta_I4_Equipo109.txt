@@ -12,3 +12,11 @@ A- EL color de fondo es 'blue' en TESTING
 b- El color de fondo es 'YELLOW' en DESARROLLO
 c- El color de fonde es 'YELLOW' en Master
 D- El favico elegido por GAMMA.
+
+E- Si, en realidad el unico que no tiene problemas es el primero en realizar el push (Alfa o en este caso Beta).
+F- El problema que surgio es que queda desactualizada la rama del siguiente en hacer el push. 
+G- Las soluciones que se pueden aplicar son:
+	Realizar git push -f que descarta la informacion subida por el compañero anterior, dejando unicamente los datos del que hace el push.
+	Realizar un git pull al momento que aparece el error para editarlo de forma manual y unificar ambos archivos o eliminar datos a conciencia.
+H- Lo que sucede es que descarta todo lo subido anteriormente para dejar el repositorio al estado del repositorio local de quien realiza el push -f.
+I- Se debe realizar un git 
