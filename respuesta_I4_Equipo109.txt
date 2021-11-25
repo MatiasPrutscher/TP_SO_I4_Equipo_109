@@ -19,4 +19,5 @@ G- Las soluciones que se pueden aplicar son:
 	Realizar git push -f que descarta la informacion subida por el compañero anterior, dejando unicamente los datos del que hace el push.
 	Realizar un git pull al momento que aparece el error para editarlo de forma manual y unificar ambos archivos o eliminar datos a conciencia.
 H- Lo que sucede es que descarta todo lo subido anteriormente para dejar el repositorio al estado del repositorio local de quien realiza el push -f.
-I- Se debe realizar un git 
+I- Se debe realizar un git merge, el cual tira un error en los datos del archivo index.html, uniendo ambos archivos y el cual tiene que ser solucionado
+ a mano editando el archivo index.html, eligiendo que datos dejar. 
