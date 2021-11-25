@@ -1,4 +1,14 @@
 BETA Federico Dacal
 GAMMA Matias Nicolas Prutscher
 
+GAMMA:
+A- El color de fondo es azul en TESTING
+B- El color de fondo es Amarillo en Desarrollo
+C- El color de fondo es Amarillo en el Master
+D- El que elija el gamma al momento de resolver el problema
 
+BETA:
+A- EL color de fondo es 'blue' en TESTING
+b- El color de fondo es 'YELLOW' en DESARROLLO
+c- El color de fonde es 'YELLOW' en Master
+D- El favico elegido por GAMMA.
